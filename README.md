@@ -1,2 +1,1 @@
-# console_chess_game
-1st year programming coursework
+1st year course work
